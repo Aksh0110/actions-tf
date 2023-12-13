@@ -41,4 +41,4 @@ jobs:
       - name: docker version
         run: docker -v
       - name: terrafrom version
-        run: terraform --versio
+        run: terraform --version
